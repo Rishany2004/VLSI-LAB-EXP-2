@@ -53,7 +53,8 @@ or g3(G2,I[7],I[6],I[5],I[4]);
 endmodule
 ```
 
-OUTPUT WAVEFORM:
+
+OUTPUT:
 
 ![image](https://github.com/Rishany2004/VLSI-LAB-EXP-2/assets/159290227/336142fa-04a1-4239-ae62-e27e89e23fe1)
 
@@ -83,7 +84,7 @@ and g11(Y7,A2,A1,A0);
 endmodule
 ```
 
-OUTPUT WAVEFORM:
+OUTPUT:
 
 ![image](https://github.com/Rishany2004/VLSI-LAB-EXP-2/assets/159290227/dfa5f090-b08d-443a-ab01-35dae3fc0a56)
 
