@@ -54,6 +54,11 @@ endmodule
 ```
 
 
+
+
+
+
+
 OUTPUT:
 
 ![image](https://github.com/Rishany2004/VLSI-LAB-EXP-2/assets/159290227/336142fa-04a1-4239-ae62-e27e89e23fe1)
