@@ -45,9 +45,7 @@ ENCODER
 
 LOGIC DIAGRAM:
 
-
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/3cd1f95e-7531-4cad-9154-fdd397ac439e)
-
 
 VERILOG CODE:
 ```
@@ -61,28 +59,18 @@ endmodule
 
 ```
 
-
-
-
-
-
-
 OUTPUT:
 
 ![image](https://github.com/Rishany2004/VLSI-LAB-EXP-2/assets/159290227/336142fa-04a1-4239-ae62-e27e89e23fe1)
-
 
 DECODER
 
 LOGIC DIAGRAM:
 
-
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/45a5e6cf-bbe0-4fd5-ac84-e5ad4477483b)
-
 
 VERILOG CODE:
 ```
-
 module deco38(A2,A1,A0,Y0,Y1,Y2,Y3,Y4,Y5,Y6,Y7);
 input A2,A1,A0;
 output Y0,Y1,Y2,Y3,Y4,Y5,Y6,Y7;
@@ -110,13 +98,11 @@ MULTIPLEXER
 
 LOGIC DIAGRAM:
 
-
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/427f75b2-8e67-44b9-ac45-a66651787436)
 
 
 VERILOG CODE:
 ```
-
 module mux81(d,s,y);
 input [7:0]d;
 input [2:0]s;
@@ -142,6 +128,8 @@ OUTPUT WAVEFORM:
 ![image](https://github.com/Rishany2004/VLSI-LAB-EXP-2/assets/159290227/8c95934d-deaf-4511-974f-902c4b178182)
 
  
+
+
 DEMULTIPLEXER
 
 LOGIC DIAGRAM:
@@ -169,7 +157,7 @@ and g11(y[7],d,s[2],s[1],s[0]);
 endmodule
 ```
 
-OUTPUT WAVEFORM:
+OUTPUT:
 
 ![image](https://github.com/Rishany2004/VLSI-LAB-EXP-2/assets/159290227/90c74ec7-9d3f-4740-bde8-9d1276c861ea)
 
@@ -208,7 +196,7 @@ end
 endmodule
 ```
 
-OUTPUT WAVEFORM:
+OUTPUT:
 
 ![image](https://github.com/Rishany2004/VLSI-LAB-EXP-2/assets/159290227/af53b32c-4800-4133-966f-a783aefdeb89)
 
