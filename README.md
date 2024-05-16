@@ -198,6 +198,13 @@ OUTPUT WAVEFORM:
 ![image](https://github.com/Rishany2004/VLSI-LAB-EXP-2/assets/159290227/af53b32c-4800-4133-966f-a783aefdeb89)
 
  
+
+
+
+
+
+
+
 RESULT
 
        Thus the simulation and implementation of combinational logic circuits is verified successfully.
